@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 日间模式下app背景色 -->
+    <color name="custom_color_app_bg_day">#ff0000</color>
+    <!-- 夜间模式下app背景色 -->
+    <color name="custom_color_app_bg_night">#1F1F1F</color>
+
+</resources>
